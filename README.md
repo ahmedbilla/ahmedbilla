@@ -42,5 +42,6 @@
 
 
 
-[![ahbilla's 42 stats](https://badge.mediaplus.ma/darkblue/ahbilla)](https://github.com/oakoudad/badge42)
+![Custom 42 Level](https://img.shields.io/badge/42%20Level-6.3-blue?style=for-the-badge)
+
 ###
